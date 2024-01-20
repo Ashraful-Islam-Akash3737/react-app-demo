@@ -1,0 +1,14 @@
+[
+    {
+        "foodName" : "Mutton-Beriyani",
+        "foodDes" : "Beriyani is my first favourite food"
+    },
+    {
+        "foodName" : "Chicken-Roll",
+        "foodDes" : "Rice is my second favourite food"
+    },
+    {
+        "foodName" : "Chicken-Curry",
+        "foodDes" : "Fish-Curry is my third favourite food"
+    }
+]
