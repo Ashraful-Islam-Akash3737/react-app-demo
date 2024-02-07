@@ -2,6 +2,8 @@
 import './Card.css'
 
 const Card = ({foodName, favouriteFood}) => {
+
+    
     return (
         <div className="card">
             <h1 className="card-title">{foodName}</h1>
